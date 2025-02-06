@@ -1,0 +1,7 @@
+# franz kafka Writing Prompts
+
+1. **A solitude tale about a man watching falling star.**
+   - Prompt: "Write a short, solitude story in the style of franz kafka about a man watching falling star."
+
+2. **Write a detachment poetry on life.**
+   - Prompt: "Create a  detachment poetry in the voice of franz kafka."
