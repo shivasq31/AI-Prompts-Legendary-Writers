@@ -1,0 +1,7 @@
+# chalam Writing Prompts
+
+1. **A humorous tale about a man who invents a robot.**
+   - Prompt: "Write a short, humorous telugu story in the style of chalam about a man who accidentally invents a robot that gets into trouble."
+
+2. **Write a satirical musings on modern life.**
+   - Prompt: "Create a telugu satirical musings in the voice of chalam that humorously critiques modern technology and society's obsession with progress."
